@@ -2,8 +2,8 @@
 h1{
     color: red;
     text-align: center;
+    border-bottom: 2px solid #cccccc;
 }
-
 
 .features{
     width: 510px;
@@ -41,4 +41,17 @@ h1{
     background-image: url(/img/cover.jpg);
     width: 10px;
     height: 20px;
+}
+.size{
+    padding: 0;
+    list-style: none;
+}
+.sizeTwo{
+    margin-bottom: 15px;
+}
+
+.interesting{
+    width: 510px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
 }
