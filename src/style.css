@@ -21,27 +21,6 @@ h1{
     text-transform: uppercase;
     text-align: center;
 }
-
-.feature-detectives {
-    padding-top: 400px;
-    background-image: url(/img/imgOne.jpg);
-    width: 10px;
-    height: 20px;
-}
-
-.feature-novels {
-    padding-top: 400px;
-    background-image: url(/img/novels.jpg);
-    width: 10px;
-    height: 1px;
-}
-
-.feature-fantasy {
-    padding-top: 400px;
-    background-image: url(/img/cover.jpg);
-    width: 10px;
-    height: 20px;
-}
 .size{
     padding: 0;
     list-style: none;
