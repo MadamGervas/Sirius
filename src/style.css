@@ -1,4 +1,36 @@
 
+.light-theme {
+    color: #17161a;
+    background-color: #fff5ee;
+}
+.light-theme .page-header {
+    background-color: #ffffff;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.light-theme .theme-button {
+    color: #6653d9;
+    border: 1px solid #6653d9;
+}
+.light-theme .theme-button:focus,
+.light-theme .theme-button:hover {
+    color: #ffffff;
+    background-color: #6653d9;
+}
+.dark-theme{
+    color: #fff5ee;
+    background-color: #4b4b4b;
+
+}
+.dark-theme .page-header {
+    background-color: #373540;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.6);
+}
+.dark-theme .theme-button {
+    color: #9484f2;
+    border: 1px solid #9484f2;
+}
+
 h1{
     color: red;
     text-align: center;
