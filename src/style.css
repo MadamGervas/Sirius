@@ -1,8 +1,12 @@
 
 .light-theme {
+    width: 510px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
     color: #17161a;
     background-color: #fff5ee;
 }
+
 .light-theme .page-header {
     background-color: #ffffff;
     box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
@@ -16,6 +20,7 @@
 .dark-theme{
     color: #fff5ee;
     background-color: #4b4b4b;
+    font-size: 16px;
 }
 
 .dark-theme.page-header {
@@ -27,10 +32,12 @@
     border: 1px solid #9484f2;
 }
 
+.container{
+    color: #fff5ee;
+}
 h1{
     color: red;
     text-align: center;
-    border-bottom: 2px solid #cccccc;
 }
 
 .features{
@@ -61,4 +68,31 @@ h1{
     width: 510px;
     margin: 0 auto 40px;
     padding: 0 20px;
+
 }
+.genre{
+    width: 150px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.forInstagram{
+
+    width: 30%;
+    margin: 0 5px;
+    font-size: 20px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    color: blue;
+}
+
+
